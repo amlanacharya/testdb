@@ -1,0 +1,4 @@
+payment_id,date,amount,method,status
+P001,2024-09-01,1000,credit_card,completed
+P002,2024-09-10,500,bank_transfer,pending
+P003,2024-09-20,2000,credit_card,completed

@@ -1,0 +1,4 @@
+agent_id,name,email,phone,success_rate,current_workload
+CA001,Alice Brown,alice.brown@example.com,555-2345,0.85,5
+CA002,Charlie Davis,charlie.davis@example.com,555-6789,0.78,3
+CA003,Eva Green,eva.green@example.com,555-3456,0.92,4

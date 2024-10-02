@@ -1,0 +1,4 @@
+debtor_id,name,address,phone,email,risk_score,total_outstanding_balance,status,last_contact_date,preferred_contact_method
+D001,John Doe,123 Elm St,555-1234,john.doe@example.com,75,5000,active,2024-09-25,phone
+D002,Jane Smith,456 Oak Ave,555-5678,jane.smith@example.com,60,3000,active,2024-09-20,email
+D003,Bob Johnson,789 Pine Rd,555-9012,bob.johnson@example.com,90,7000,defaulted,2024-09-15,SMS

@@ -1,0 +1,4 @@
+contact_id,date,method,notes,outcome
+C001,2024-09-18,phone,Spoke about repayment plan,promise to pay
+C002,2024-09-19,email,Sent payment reminder,no answer
+C003,2024-09-21,SMS,Sent SMS reminder,promise to pay

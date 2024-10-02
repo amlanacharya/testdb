@@ -1,0 +1,4 @@
+debtor_id,account_id,since,original_amount
+D001,A001,2022-01-15,5000
+D002,A002,2023-03-10,3000
+D003,A003,2021-07-22,7000
